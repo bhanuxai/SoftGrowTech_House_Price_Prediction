@@ -24,7 +24,7 @@ except Exception as e:
 
 REQUIRED_FEATURES = [
     'MedInc', 'HouseAge', 'AveRooms', 'AveBedrms', 
-    'Population', 'AveOccup', 'Longitude'
+    'Population', 'AveOccup','Latitude','Longitude'
 ]
 
 FEATURE_METADATA = [
